@@ -12,5 +12,6 @@ export default defineBuildConfig({
         minify: true,
         target: 'es2015',
     },
+    dts: {}
   },
 })
