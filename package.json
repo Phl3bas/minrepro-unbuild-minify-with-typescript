@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "unbuild"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  },
+  "dependencies": {
+    "unbuild": "^0.8.11"
+  }
+}
